@@ -1,0 +1,39 @@
+body {
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+}
+
+h2 {
+    text-align: center;
+    color: chocolate;
+}
+
+aside {
+    border: 3px solid blue;
+    border-radius: 10px;
+    height: 170px;
+    width: 120px;
+    font-family: cursive;
+    position: fixed;
+    top: 120px;
+    right: 0px;
+    background-color: white;
+}
+
+aside p {
+    margin: 10px 0px 10px 0px;
+}
+
+div {
+    border-top: 5px #2E671F solid;
+}
+
+div p {
+    margin: 32px 0px 50px 0px;
+    font-size: 24px;
+    color: blue;
+}
